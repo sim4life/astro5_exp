@@ -35,6 +35,15 @@ h1 {
     background-color: #ff9776;
 }
 
+html.dark {
+    background-color: #0d0950;
+    color: #fff;
+}
+
+.dark .nav-links a {
+    color: #fff;
+}
+
 .nav-links {
     width: 100%;
     top: 5rem;
